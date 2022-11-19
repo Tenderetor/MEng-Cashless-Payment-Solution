@@ -1,0 +1,159 @@
+[25-Jan-2022 01:33:04 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[25-Jan-2022 01:33:04 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[25-Jan-2022 01:33:05 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[25-Jan-2022 01:33:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[25-Jan-2022 02:26:49 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[25-Jan-2022 02:26:49 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[25-Jan-2022 02:26:50 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[25-Jan-2022 02:26:52 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[25-Jan-2022 03:37:08 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[25-Jan-2022 03:37:08 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[25-Jan-2022 03:37:08 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[25-Jan-2022 03:37:11 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[25-Jan-2022 12:14:52 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[25-Jan-2022 12:14:53 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[25-Jan-2022 12:14:53 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[25-Jan-2022 12:14:55 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[26-Jan-2022 20:05:13 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[26-Jan-2022 20:05:14 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[26-Jan-2022 20:05:14 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[26-Jan-2022 20:05:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[26-Jan-2022 23:05:15 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[26-Jan-2022 23:05:16 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[26-Jan-2022 23:05:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[26-Jan-2022 23:05:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[27-Jan-2022 16:34:22 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[27-Jan-2022 16:34:22 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[27-Jan-2022 16:34:22 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[27-Jan-2022 16:34:24 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[27-Jan-2022 23:08:31 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[27-Jan-2022 23:08:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[27-Jan-2022 23:35:55 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[27-Jan-2022 23:35:55 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[27-Jan-2022 23:35:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[27-Jan-2022 23:35:58 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[27-Jan-2022 23:46:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[28-Jan-2022 06:01:18 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[28-Jan-2022 06:01:19 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[28-Jan-2022 06:01:19 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[28-Jan-2022 06:01:21 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[28-Jan-2022 12:06:03 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[28-Jan-2022 12:06:03 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[28-Jan-2022 12:06:04 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[28-Jan-2022 12:06:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[28-Jan-2022 20:20:44 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[28-Jan-2022 20:20:45 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[28-Jan-2022 20:20:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[28-Jan-2022 20:20:47 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[28-Jan-2022 23:34:25 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[28-Jan-2022 23:34:25 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[28-Jan-2022 23:34:26 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[28-Jan-2022 23:34:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[29-Jan-2022 08:17:37 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[29-Jan-2022 08:17:37 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[29-Jan-2022 08:17:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[29-Jan-2022 08:17:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[29-Jan-2022 15:41:23 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[29-Jan-2022 15:41:23 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[29-Jan-2022 15:41:23 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[29-Jan-2022 15:41:25 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[14-May-2022 12:06:27 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[14-May-2022 12:06:29 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[28-Jul-2022 13:41:19 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Composer\XdebugHandler\XdebugHandler' not found in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[28-Jul-2022 13:41:23 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/gjmyjgmy/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30

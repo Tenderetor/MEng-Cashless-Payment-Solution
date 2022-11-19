@@ -1,0 +1,16 @@
+[11-Oct-2022 12:05:42 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Kreait\Firebase\Contract\Firestore' not found in /home3/gjmyjgmy/public_html/vendor/kreait/firebase-php/src/Firebase/Firestore.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/kreait/firebase-php/src/Firebase/Firestore.php on line 9
+[11-Oct-2022 12:05:42 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Kreait\Firebase\Contract\Firestore' not found in /home3/gjmyjgmy/public_html/vendor/kreait/firebase-php/src/Firebase/Firestore.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/kreait/firebase-php/src/Firebase/Firestore.php on line 9
+[11-Oct-2022 12:05:52 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Kreait\Firebase\Contract\Auth' not found in /home3/gjmyjgmy/public_html/vendor/kreait/firebase-php/src/Firebase/Auth.php:52
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/kreait/firebase-php/src/Firebase/Auth.php on line 52
+[11-Oct-2022 12:05:52 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Kreait\Firebase\Contract\Auth' not found in /home3/gjmyjgmy/public_html/vendor/kreait/firebase-php/src/Firebase/Auth.php:52
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/kreait/firebase-php/src/Firebase/Auth.php on line 52

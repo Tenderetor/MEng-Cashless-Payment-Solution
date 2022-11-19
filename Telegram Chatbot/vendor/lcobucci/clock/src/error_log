@@ -1,0 +1,256 @@
+[25-Jan-2022 01:32:28 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[25-Jan-2022 01:32:31 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[25-Jan-2022 01:32:33 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[25-Jan-2022 01:32:36 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[25-Jan-2022 02:26:20 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[25-Jan-2022 02:26:22 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[25-Jan-2022 02:26:23 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[25-Jan-2022 02:26:25 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[25-Jan-2022 03:36:35 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[25-Jan-2022 03:36:37 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[25-Jan-2022 03:36:38 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[25-Jan-2022 03:36:40 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[25-Jan-2022 12:14:23 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[25-Jan-2022 12:14:25 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[25-Jan-2022 12:14:26 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[25-Jan-2022 12:14:28 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[26-Jan-2022 20:04:43 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[26-Jan-2022 20:04:45 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[26-Jan-2022 20:04:47 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[26-Jan-2022 20:04:49 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[26-Jan-2022 23:04:46 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[26-Jan-2022 23:04:48 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[26-Jan-2022 23:04:49 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[26-Jan-2022 23:04:51 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[27-Jan-2022 16:33:51 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[27-Jan-2022 16:33:53 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[27-Jan-2022 16:33:54 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[27-Jan-2022 16:33:56 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[27-Jan-2022 23:35:18 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[27-Jan-2022 23:35:20 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[27-Jan-2022 23:35:22 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[27-Jan-2022 23:35:25 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[28-Jan-2022 04:06:13 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[28-Jan-2022 04:06:15 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[28-Jan-2022 04:06:17 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[28-Jan-2022 04:06:21 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[28-Jan-2022 06:00:48 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[28-Jan-2022 06:00:50 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[28-Jan-2022 06:00:50 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[28-Jan-2022 06:00:52 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[28-Jan-2022 12:05:33 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[28-Jan-2022 12:05:35 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[28-Jan-2022 12:05:37 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[28-Jan-2022 12:05:40 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[28-Jan-2022 20:20:11 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[28-Jan-2022 20:20:13 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[28-Jan-2022 20:20:15 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[28-Jan-2022 20:20:18 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[28-Jan-2022 23:33:53 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[28-Jan-2022 23:33:55 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[28-Jan-2022 23:33:57 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[28-Jan-2022 23:34:00 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[29-Jan-2022 08:17:08 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[29-Jan-2022 08:17:10 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[29-Jan-2022 08:17:11 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[29-Jan-2022 08:17:13 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[29-Jan-2022 15:40:51 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[29-Jan-2022 15:40:53 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[29-Jan-2022 15:40:55 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[29-Jan-2022 15:40:57 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[28-Jul-2022 13:46:31 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11
+[28-Jul-2022 13:46:40 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[28-Jul-2022 14:25:47 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/FrozenClock.php on line 9
+[28-Jul-2022 14:25:54 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\Clock\Clock' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/clock/src/SystemClock.php on line 11

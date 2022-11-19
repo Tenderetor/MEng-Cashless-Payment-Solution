@@ -1,0 +1,8 @@
+[25-Jan-2022 12:04:19 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Kreait\Clock' not found in /home3/gjmyjgmy/public_html/vendor/kreait/clock/src/Clock/FrozenClock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/kreait/clock/src/Clock/FrozenClock.php on line 10
+[25-Jan-2022 12:04:20 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Kreait\Clock' not found in /home3/gjmyjgmy/public_html/vendor/kreait/clock/src/Clock/FrozenClock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/kreait/clock/src/Clock/FrozenClock.php on line 10

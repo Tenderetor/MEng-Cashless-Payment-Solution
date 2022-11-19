@@ -1,0 +1,8 @@
+[11-Sep-2022 12:03:59 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\JWT\Validator' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8
+[11-Sep-2022 12:04:00 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Lcobucci\JWT\Validator' not found in /home3/gjmyjgmy/public_html/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/gjmyjgmy/public_html/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8
