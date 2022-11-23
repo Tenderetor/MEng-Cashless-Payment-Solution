@@ -5,8 +5,8 @@ use Kreait\Firebase\Factory;
 use Telegram\Bot\Commands\Command;
 
 $factory = (new Factory)
-    ->withServiceAccount('final-year-project-d17ce-firebase-adminsdk-ikwtn-fdff3d48c1.json')
-    ->withDatabaseUri('https://final-year-project-d17ce.firebaseio.com/');
+    ->withServiceAccount('xxx.json')
+    ->withDatabaseUri('https://xxx.firebaseio.com/');
 
 $database = $factory->createDatabase();
 
